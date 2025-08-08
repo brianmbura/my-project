@@ -1,0 +1,18 @@
+.header{
+    background-color: #f8f9fa;
+    padding: 1%;
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+}
+
+.nav-top{
+    background-color: #343a40;
+    padding: 10px;
+    color: blue;
+}
+
+.top{
+    color: #fff;
+    text-decoration: none;
+}
